@@ -2,7 +2,6 @@ Welcome to RebellionMC
 we Kindly invite you to Join our discord server here:
 https://discord.com/invite/vDeTx8BFU3
 
-__**Stickied Message:**__
 
 **Staff List**
 
