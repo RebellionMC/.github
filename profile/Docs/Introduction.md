@@ -7,9 +7,9 @@ Buckle Up
 
 ### ---- Quick Links ----
 
-[VanillaRebellion Docs](https://RebellionMC.github.com/.github/blob/main/profile/Docs/VanillaRebellion.md)<br>
-[CrossPlay Rebellion Docs](https://RebellionMC.github.com/.github/blob/main/profile/Docs/CrossplayRebellion.md)<br>
-[PocketRebellion Docs](https://RebellionMC.github.com/.github/blob/main/profile/Docs/PocketRebellion.md)<br>
+[VanillaRebellion Docs](https://github.com/RebellionMC/.github/blob/main/profile/Docs/VanillaRebellion.md)<br>
+[CrossPlay Rebellion Docs](https://github.com/RebellionMC/.github/blob/main/profile/Docs/CrossplayRebellion.md)<br>
+[PocketRebellion Docs](https://github.com/RebellionMC/.github/blob/main/profile/Docs/PocketRebellion.md)<br>
 
 
 ### ---- Our Team ----
