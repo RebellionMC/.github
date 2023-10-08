@@ -2,21 +2,26 @@ Welcome to RebellionMC
 we Kindly invite you to Join our discord server here:
 https://discord.com/invite/vDeTx8BFU3
 
-# Our Team:
-## Owners:
-n00bslayr94 - Founder,
+__**Stickied Message:**__
+
+**Staff List**
+
+**Owners**
+N00bslayr94 <br>
 Jepium
 
-## Developers:
-finnbar - Lead Developer,
-skyss0fly
+**Developers**
+Finnbar-  *Head Developer* <br>
+skyss0fly -*Developer*
 
-## Moderators:
-Brendo, 
-Z
+ **Build Team**
+Dave *Build Manager* <br>
+Luck *Builder*
 
-## Builders:
-Dave
+**Media Team**
+King *Media Manager*
 
-## Media:
-King - Manager
+**Moderation Team**
+Brendo *Mod* <br>
+ Z *Mod* <br>
+Levi *Helper/Jr.Dev*
