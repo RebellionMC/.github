@@ -7,11 +7,11 @@ https://discord.com/invite/vDeTx8BFU3
 n00bslayr94 - Founder,
 Jepium
 
-## Developers
+## Developers:
 finnbar - Lead Developer,
 skyss0fly
 
-## Moderators
+## Moderators:
 Brendo, 
 Z
 
