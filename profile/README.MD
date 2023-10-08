@@ -5,17 +5,17 @@ https://discord.com/invite/vDeTx8BFU3
 # Our Team:
 ## Owners:
 n00bslayr94 - Founder,
-** **
+
 Jepium
 
 ## Developers
 finnbar - Lead Developer,
-** **
+
 skyss0fly
 
 ## Moderators
 Brendo, 
-** **
+
 Z
 
 Builers:
