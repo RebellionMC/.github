@@ -6,22 +6,22 @@ __**Stickied Message:**__
 
 **Staff List**
 
-**Owners**
+**Owners** <br>
 N00bslayr94 <br>
 Jepium
 
-**Developers**
+**Developers** <br>
 Finnbar-  *Head Developer* <br>
 skyss0fly -*Developer*
 
- **Build Team**
+ **Build Team** <br>
 Dave *Build Manager* <br>
 Luck *Builder*
 
-**Media Team**
+**Media Team** <br>
 King *Media Manager*
 
-**Moderation Team**
+**Moderation Team** <bd>
 Brendo *Mod* <br>
  Z *Mod* <br>
 Levi *Helper/Jr.Dev*
