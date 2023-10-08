@@ -14,23 +14,22 @@ Buckle Up
 
 ### ---- Our Team ----
 
-#### Owners:
-**n00bslayr94** - Founder, <br>
-**Jepium**
+**Owners** <br>
+N00bslayr94 - *Founder* <br>
+Jepium
 
-#### Developers:
-**Finnbar** - Lead Developer,  <br>
-**skyss0fly**
+**Developers** <br>
+Finnbar - *Head Developer* <br>
+skyss0fly - *Developer*
 
-#### Moderators:
-**Brendo**,<br>
-**Z**
+ **Build Team** <br>
+Dave - *Build Manager* <br>
+Luck - *Builder*
 
-#### Builders:
-**Dave** - Build Manager
+**Media Team** <br>
+King - *Media Manager*
 
-#### Media:
-**King** - Media Manager
-
-## -- How To Join: --
-Please join the Discord Server to get the IP Address
+**Moderation Team** <bd>
+Brendo - *Mod* <br>
+ Z - *Mod* <br>
+Levi - *Helper/Jr.Dev*
