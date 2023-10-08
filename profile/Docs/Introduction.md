@@ -31,3 +31,6 @@ Buckle Up
 
 #### Media:
 **King** - Media Manager
+
+## -- How To Join: --
+Please join the Discord Server to get the IP Address
