@@ -7,21 +7,21 @@ __**Stickied Message:**__
 **Staff List**
 
 **Owners** <br>
-N00bslayr94 <br>
+N00bslayr94 - *Founder* <br>
 Jepium
 
 **Developers** <br>
-Finnbar-  *Head Developer* <br>
-skyss0fly -*Developer*
+Finnbar - *Head Developer* <br>
+skyss0fly - *Developer*
 
  **Build Team** <br>
-Dave *Build Manager* <br>
-Luck *Builder*
+Dave - *Build Manager* <br>
+Luck - *Builder*
 
 **Media Team** <br>
-King *Media Manager*
+King - *Media Manager*
 
 **Moderation Team** <bd>
-Brendo *Mod* <br>
- Z *Mod* <br>
-Levi *Helper/Jr.Dev*
+Brendo - *Mod* <br>
+ Z - *Mod* <br>
+Levi - *Helper/Jr.Dev*
