@@ -16,7 +16,7 @@ skyss0fly - *Developer*
  **Build Team** <br>
 Dave - *Build Manager* <br>
 Luck - *Builder* <br>
-igouwu - *Builder*
+igouwu - *Builder* <br>
 **Media Team** <br>
 King - *Media Manager*
 
