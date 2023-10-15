@@ -15,12 +15,13 @@ skyss0fly - *Developer*
 
  **Build Team** <br>
 Dave - *Build Manager* <br>
-Luck - *Builder*
-
+Luck - *Builder* <br>
+igouwu - *Builder*
 **Media Team** <br>
 King - *Media Manager*
 
 **Moderation Team** <bd>
 Brendo - *Mod* <br>
  Z - *Mod* <br>
+Pheon - *Helper*
 Levi - *Helper/Jr.Dev*
