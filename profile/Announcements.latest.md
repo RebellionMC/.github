@@ -1,6 +1,9 @@
 # Latest Announcement from Our Team for this Github Page:
 
-- Dear Members Please note That PocketRebellion is Still undergoing Development,
-- Which means Any Information on it is in Void condition.
-- Also Do Note All Plugins for PocketRebellion will be Privately Coded so We will not be disclosing PluginNames, Functions or Source Code!
-  Thanks! Yours truly, skyss0fly 
+Dear Members,
+  I'd like to inform you guys that i Have recently been deployed from the Developer Team Due to Inactivity, to which i Apologise.
+I plan to come back Soon (3 Weeks most) as a Full Developer 
+for now ill be doing side jobs to the best of my ability
+Thanks For Listening to this.
+your friend, 
+skyss0fly
