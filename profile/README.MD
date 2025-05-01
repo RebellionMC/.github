@@ -15,15 +15,23 @@ Rebellion *Owner Alt* <br>
 
 **Developers** <br>
 *skyss0fly* - Github Organisation Developer and Website Developer. Plugin developer and fixy man for the owners. 
+senblaze1 - Developer
+qzotx - Developer
 
  **Build Team** <br>
+kittycatxoxo - Builder
+you_creator - Builder
+.dave_breadman - Builder
 
 
 **Media Team** <br>
 
+*Nobody is in media team*
 
 **Moderation Team** <br>
-
+.frost_zero - Jr Mod
+.zeeo6969 - Mod
+shockwave3156 - Jr Mod 
 
 
 ** Ex Staff ** <br>
