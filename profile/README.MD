@@ -4,27 +4,26 @@ https://discord.com/invite/vDeTx8BFU3
 
 
 **Staff List**
+**Founders** <br>
+N00bslayr94 - *Founder* <br>
+Jepium - *Founder* <br>
 
 **Owners** <br>
 N00bslayr94 - *Founder* <br>
-Jepium
+Kxrealm - *Owner* <br>
+Rebellion *Owner Alt* <br>
 
 **Developers** <br>
-Finnbar - *Head Developer* <br>
+*skyss0fly* - Github Organisation Developer and Website Developer. Plugin developer and fixy man for the owners. 
 
  **Build Team** <br>
-Dave - *Build Manager* <br>
-Luck - *Builder* <br>
-igouwu - *Builder* <br>
+
 
 **Media Team** <br>
-King - *Media Manager*
+
 
 **Moderation Team** <br>
-Brendo - *Mod* <br>
- Z - *Mod* <br>
-Pheon - *Helper* <br>
-Levi - *Helper/Jr.Dev*
+
 
 
 ** Ex Staff ** <br>
